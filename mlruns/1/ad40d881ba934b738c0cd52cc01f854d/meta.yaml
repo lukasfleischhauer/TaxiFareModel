@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lukasfleischhauer/code/lukasfleischhauer/TaxiFareModel/mlruns/1/ad40d881ba934b738c0cd52cc01f854d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ad40d881ba934b738c0cd52cc01f854d
+run_uuid: ad40d881ba934b738c0cd52cc01f854d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653400974485
+status: 1
+tags: []
+user_id: unknown
